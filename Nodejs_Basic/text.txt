@@ -1,0 +1,32 @@
+Nodejs:-
+
+           programming language ❌
+           technology ❌
+           framework ❌
+           software ❌
+
+ye hai js runtime environment ✅
+
+js se backend nahi ban sakta 
+kyuki js ke pass wo functionalities nahi hai  jinse backend banta hai
+
+ryan dahl isne socha js se backend banna chahyie
+
+google chrome ka v8 engine ka code open source hai and ryan dahl us code mein chedkhaani kar rha hai 
+
+kyuki chrome ka v8 engine bana hai c++ mein
+
+fir usne socha hume to js me code krna hai
+
+hum js ka code likhinge jo ki wrapper layer of js receive karegi and wo code v8 engine ke cpp module ke sath ek server create krega
+
+
+
+node -v          # Node.js version
+npm -v           # npm version
+node app.js      # JS file run
+npm init -y      # Node project initialize
+npm install      # dependencies install
+
+
+internet per kuch bhi krne ke liye rules banaaye gaye hai unke dwaara jinhone inernet bannaya hai , ab un rules ko follow krma jaruri hai , aur ye rules follow ho aapke operating system me pre installed aate hai 
