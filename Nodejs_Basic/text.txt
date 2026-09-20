@@ -27,6 +27,8 @@ npm -v           # npm version
 node app.js      # JS file run
 npm init -y      # Node project initialize
 npm install      # dependencies install
+dev dependencies
 
+script
 
 internet per kuch bhi krne ke liye rules banaaye gaye hai unke dwaara jinhone inernet bannaya hai , ab un rules ko follow krma jaruri hai , aur ye rules follow ho aapke operating system me pre installed aate hai 
