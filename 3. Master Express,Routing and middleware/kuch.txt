@@ -1,0 +1,11 @@
+express ->framework
+
+request ->middleware ->route ->then response
+
+jba bhi server request accept karta hai waha se route ke beech pahuchne tak agar aap us request  ko beech me rokte ho an dkuch perform karte ho to ye element middleware kehlata hai  
+
+kisi route ko chalaane se phale kuch krna ho request me usko middle kehte hai 
+
+request and response handling
+
+error handling
