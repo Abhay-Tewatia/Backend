@@ -1,0 +1,30 @@
+initialize project with npm 
+express install
+
+setting up ejs for ejs pages
+    install ejs from npm
+    setup ejs as a view engine
+
+
+setting up public static files
+
+
+
+dynamic routing :-> hum log kyi baar kuch routes dekhte unme sirf ek hi hisaa change hota hai 
+/author/harsh
+/author/harsita
+/author/harshika
+/author/harshitakabf
+
+/profile/harsh
+/profile/harshika
+
+
+->sabse phale browser per jao url likho apna  jo aapko chayie enter dbaye or ab url ko cretae kriye
+-> res bhjeiye kuch bhi
+-> ab usi url ko agr dynamic bnana hai to realise karo konsa part dynamic hai aur us part ke aage route meiin lga do
+
+how to get data comming from frontend at backend route
+
+setting up parsers and for from
+
